@@ -1,2 +1,2 @@
 # word-counter
-Counts the words in input.txt and outputs it to output.txt
+counts the words in `input.txt` and outputs it to `output.txt`
